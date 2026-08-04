@@ -4,6 +4,7 @@
 177.1.197.0/24,LV,LV-RIX,Riga,
 2a09:3f00:3600::/48,DE,DE-HE,Frankfurt am Main,
 2a09:3f00:3601::/48,LV,LV-RIX,Riga,
+2.27.241.0/24,NL,NL-LI,Eygelshoven,
 2a09:3f00:3602::/48,EE,EE-37,Tallinn,
 2a09:3f00:3603::/48,SE,SE-AB,Stockholm,
 2a0d:d940:180::/44,RU,RU-MOW,Moscow,
